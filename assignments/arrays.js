@@ -134,7 +134,8 @@ let carMake = [];
 }
 
 make(inventory);
-console.log(BMWAndAudi);
+// console.log(BMWAndAudi);
+console.log(JSON.stringify(BMWAndAudi));
 
 
 
